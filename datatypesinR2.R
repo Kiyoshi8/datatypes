@@ -24,7 +24,7 @@
              # complex, character, list, closure
 
 # lets create some vectors with the most common type of data
-a = (1:5) 
+a = (2:4) 
 b = rep(1.50,4)
 c = c("wed", "tue", "sat")
 d = c(1+7i, 2+4i)
@@ -63,6 +63,7 @@ f
 
 # in this case we coerced logical vector e
 # to character vector f
+
 
 
 
